@@ -1,12 +1,4 @@
-Welcome to the Third-Party Developer(s) Documentation for EVE Online.
+# Home
+This documentation has been deprecated and moved to a new repository: https://github.com/esi/esi-docs/. Please use the documentation in that repository from now on.
 
-This is a new community supported repository for instructions and guidance that is useful for those making third-party tools for EVE.
-
-It is intended to always be a living document, and the plan is for it to be frequently updated to reflect changes in the APIs and/or services. At present it is very much a work in progress and much of the content is yet to be written. The main focus so far has been on the SSO and CREST, as these are new services, which have not yet had extensive third party documentation efforts, and get asked about frequently on the [technology lab forums](https://forums.eveonline.com/default.aspx?g=topics&f=263).
-
-# Contributing
-There is a lot of work to be done on this site and any contributions are welcome. The docs are hosted on a [GitHub repository](https://github.com/ccpgames/eveonline-third-party-documentation), where anyone can fork it, commit changes and submit a pull request to get your changes onto the site.
-
-The source files are written in markdown, which is very easy to get started using. There is a fairly good introduction to markdown available from [GitHub](https://guides.github.com/features/mastering-markdown/).
-
-There is a contributors file, as well as more info on contributing to the documentation on the repository.
+Thank you to all who contributed to this and helped your fellow third party developers. If you want, you can continue to contribute to https://github.com/esi/esi-docs/ as well.
